@@ -1,4 +1,4 @@
-# Programa que recebe 4 notas bimestrais de um aluno e imprime a média
+# Programa que recebe 4 notas bimestrais de um aluno e imprime a média.
 
 nota_1 = float(input("Digite a primeira nota bimestral do aluno: "))
 nota_2 = float(input("Digite a segunda nota bimestral do aluno: "))

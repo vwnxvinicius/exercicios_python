@@ -1,5 +1,5 @@
 # Programa que recebe um número do usuário e retorna a mensagem:
-# "O número informado foi (número)"
+# "O número informado foi (número)."
 
 n = input("Digite qualquer número: ")
 print("O número informado foi", n)

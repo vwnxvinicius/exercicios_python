@@ -1,4 +1,4 @@
-'''
+"""
 Faça um programa para o cálculo de uma folha de pagamento,
 sabendo que os descontos são do Imposto de Renda,
 que depende do salário bruto (conforme tabela abaixo) e 3%
@@ -11,7 +11,7 @@ Salário Bruto até 900 (inclusive) - isento
 Salário Bruto até 1500 (inclusive) - desconto de 5%
 Salário Bruto até 2500 (inclusive) - desconto de 10%
 Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
-'''
+"""
 
 h = float(input("Insira quantas horas você trabalha por mês: "))
 d = float(input("Insira quanto você recebe por hora: "))

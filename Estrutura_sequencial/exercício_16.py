@@ -11,5 +11,5 @@ latas = litros/18
 valor = latas*80
 
 print(
-    "Você preccisará de {:.2f} litros, que corresponde a {:.2f} latas, o preço total será de R${:.2f}".format(litros, latas, valor)
+    "Você precisará de {:.2f} litros, que corresponde a {:.2f} latas, o preço total será de R${:.2f}".format(litros, latas, valor)
     )

@@ -13,7 +13,7 @@ def insertion(seq):
         value_to_sort = seq[i]
         while seq[i - 1] > value_to_sort and i > 0:
             seq[i], seq[i - 1] = seq[i - 1], seq[i]
-            i = i -1
+            i = i - 1
 
 
 main()

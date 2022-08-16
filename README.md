@@ -4,13 +4,6 @@
 Um repositório onde eu armazeno os exercícios de programação feitos em Python e algumas coisas
 como o estudo de estruturas de dados e algoritmos, também implementados em Python.
 
-<h1>Organização</h1>
-* [Algoritmos de ordenação](#Algoritmos-de-ordenação)
-* [Estrutura de dados](#Estrutura-de-dados)
-* [Estrutura sequencial](#Estrutura-sequencial)
-* [Estrutura de decisão](#Estrutura-de-decisão)
-* [Estrutura de repetição](#Estrutura-de-repetição)
-
 
 # Algoritmos de ordenação
 Essa seção contém alguns dos mais famosos algoritmos de ordenação, como insertion sort, selection sort, quick sort, merge sort, etc... (Alguns ainda não foram implementados)
@@ -38,7 +31,7 @@ Essa pasta contém os exercícios feitos utilizando repetições (while, for...)
 
 Esses são os que eu acho mais interessante, eu gosto da forma como as repetições funcionam.
 
-
+# Fim
 
 No momento de edição desse arquivo, muita coisa ainda vai mudar nesse repositório, afinal, é um repositório que eu uso para melhorar minhas habilidades e manter a evolução constante nesse incrível mundo da tecnologia
 

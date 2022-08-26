@@ -13,11 +13,17 @@ Vou montar a tabuada de 5 começando em 4 e terminando em 7:
 5 X 6 = 30
 5 X 7 = 35
 
+Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
+
 '''
 
 n = int(input("Montar a tabuada de: "))
 inicio = int(input("Começar por: "))
 fim = int(input("Terminar em: "))
+while fim < inicio:
+    print("O número final não pode ser menor que o inicial")
+    inicio = int(input("Começar por: "))
+    fim = int(input("Terminar em: "))
 
 diferenca = fim - inicio
 

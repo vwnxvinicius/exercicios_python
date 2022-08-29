@@ -12,7 +12,7 @@ maior_altura = 0
 numero_mais_baixo = 0
 numero_mais_alto = 0
 
-for i in range(3):
+for i in range(10):
     numero_do_aluno = int(input("Insira o número do aluno: "))
     altura = int(input("Insira a altura do aluno em centímetros: "))
 

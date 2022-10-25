@@ -8,4 +8,14 @@ alturas = []
 
 
 for i in range(1, 6):
-    idade = int(input(f"Insira a idade - {i} de 5"))
+    idade = int(input(f"Insira a idade - {i} de 5: "))
+    altura = float(input(f"Insira a aultura - {i} de 5: "))
+    idades.append(idade)
+    alturas.append(altura)
+
+
+idades.reverse()
+alturas.reverse()
+
+print(idades)
+print(alturas)
